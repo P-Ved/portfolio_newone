@@ -10,7 +10,7 @@ import HoverLinks from "./HoverLinks";
 import { SiLeetcode } from "react-icons/si";
 
 const SocialIcons = () => {
-  const resumeUrl = "/ved_patel_resume_v4.pdf";
+  const resumeUrl = "ved_patel_resume.pdf";
 
   useEffect(() => {
     const social = document.getElementById("social") as HTMLElement;
